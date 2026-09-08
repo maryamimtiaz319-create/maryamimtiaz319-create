@@ -1,16 +1,18 @@
 <h1 align="center">Hi there, I'm Maryam Imtiaz 👋</h1>
 
 <p align="center">
-  <em>Python Developer | Building tools & mini-projects | Learning & growing one commit at a time 🚀</em>
+  <em>Aspiring AI & Software Developer | Building tools & mini-projects | Learning & growing one commit at a time 🚀</em>
 </p>
 
 ---
 
 ### 🧑‍💻 About Me
+- 🎯 Goal: Becoming an **AI Developer** & **Software Developer**
 - 🐍 I love building things with **Python**
+- 🤖 Exploring **AI/ML** concepts and applying them in real projects
 - 🛠️ Currently working on: **CodeAlpha_LanguageTranslationTool** (Python + Tkinter)
-- 🌱 Learning new tools and frameworks every day
-- 💬 Ask me about Python, Tkinter, or beginner-friendly projects
+- 🌱 Learning new tools, frameworks & AI concepts every day
+- 💬 Ask me about Python, Tkinter, AI basics, or beginner-friendly projects
 - 📫 Reach me at: *maryamimtiaz319@gmail.com*
 
 ---
@@ -19,6 +21,8 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Tkinter](https://img.shields.io/badge/Tkinter-0078D7?style=for-the-badge&logo=python&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
